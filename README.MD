@@ -1,8 +1,6 @@
 # Автор
 https://t.me/just_commit
 Канал с новостями: https://t.me/my_utils
-Донаты: EVM 0xe63F5DF79667BfAa7fE002382299d1a4F0a94AEE
-binance id: 28071835
 
 
 # Установка и запуск
@@ -41,4 +39,4 @@ recepient_addresses.txt - адреса EVM кошельков получател
 withdraw_addresses - адреса для вывода с бинанса
 
 
-# Для приобретения полной версии обращайтесь https://t.me/just_commit
+Донаты: EVM 0xe63F5DF79667BfAa7fE002382299d1a4F0a94AEE
