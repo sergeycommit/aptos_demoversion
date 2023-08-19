@@ -82,7 +82,7 @@ def swap_cake(client, privat_key: str, dex, amount: int, slippage: int, token_fr
                             current_account.address(),
                             client.account_sequence_number(current_account.address()),
                             TransactionPayload(payload),
-                            GAS_LIMIT*(random.uniform(1, 1.21)),
+                            int(GAS_LIMIT*(random.uniform(1, 1.21))),
                             GAS_PRICE,
                             int(time.time()) + 600,
                             chain_id=1,
