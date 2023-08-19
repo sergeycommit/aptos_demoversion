@@ -1,0 +1,4 @@
+aptos-sdk==0.6
+requests==2.31.0
+ccxt
+loguru
