@@ -1,5 +1,7 @@
+# Софт по автоматическому выполнению транзакций в Aptos сети
+
 # Автор
-https://t.me/just_commit
+https://t.me/sergey_ilyin_ds
 Канал с новостями: https://t.me/my_utils
 
 
