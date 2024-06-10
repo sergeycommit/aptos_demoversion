@@ -1,7 +1,7 @@
 # Софт по автоматическому выполнению транзакций в Aptos сети
 
 # Автор
-https://t.me/sergey_ilyin_ds
+https://t.me/s_ilyin
 Канал с новостями: https://t.me/my_utils
 
 
